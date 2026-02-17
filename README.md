@@ -18,7 +18,7 @@ EDA---MARKETING/
 │   └── 01-Analisis_preeliminar.ipynb
 │
 └── src/
-    └── Limpieza.py
+    └── Limpieza.py/
 └── Análisis documental
     └── Desarrollo del Análisis Exploratorio de Datos
 └── README
